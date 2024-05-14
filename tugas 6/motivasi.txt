@@ -1,0 +1,1 @@
+Perkenalkan saya Marshanda, mahasiswa dari Universitas Lancang Kuning Fakultas Ilmu Komputer. Motivasi saya mengikuti Bootcamp adalah agar bisa belajar dan lebih memahami tentang framework PHP yaitu laravel, dan agar saya dapat belajar lebih mendalam lagi terkait dengan perkodingan.
